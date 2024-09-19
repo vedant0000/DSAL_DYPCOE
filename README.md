@@ -1,2 +1,1 @@
 # DYPCOE
-Practicals and Projects 
