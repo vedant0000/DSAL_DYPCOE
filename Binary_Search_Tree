@@ -57,26 +57,7 @@ void display(Node *root){
     display(root->right);
     }
 }
-// void display2(Node *root){
-    
-//     if(root!=NULL){
-//         Node *leftSide=root->left;
-//         Node *rightSide=root->right();
-//         while(root->left!=NULL){
-//               cout<<leftSide->data;
-//               leftSide=leftSide->left;
-//               cout<<" "
-//         }
-//         while(root->right!=NULL){
-            
-//         }
-//     }
-    
-// }
 };
-
-
-
 
 
 int main(){
